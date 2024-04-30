@@ -22,7 +22,7 @@ FreeMentor is a platform dedicated to providing free educational resources to an
 ## Getting Started
 
 To start learning on FreeMentor, simply follow these steps:
-* Visit our website at [https://freementor2024.onrender.com/](https://freementor.onrender.com/)
+* Visit our website at [https://freementor2024.onrender.com/](https://freementor2024.onrender.com/)
 * Browse through the available courses to find specific topics.
 * Click on a course to view its details, curriculum, and any prerequisites.
 * Enroll in the course for free and start learning at your own pace.
